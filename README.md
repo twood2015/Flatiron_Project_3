@@ -16,3 +16,4 @@ I tested four different models to finally create a model that could predict the 
 ![Average elevation grouped by well status](images/elevationgraph.png)
 
 ## Conclusion
+Given the high accuracy of the final model, it should provide useful insights on wells whose features suggest that they are at high-risk of breaking or going dry. Focusing maintanence and prophylactic resources towards these high-risk wells should help ameliorate water scarcity in communities that rely on them. Furthermore this model can be used to identify environments that are more resilient to well deterioration, and build wells that will hopefully induce migration to these areas. If this model was provided to the Tanzanian Government, they should be able to provide unique insights that could improve this model and fully utilize all its implications. With this mode we should be able to improve not only Tanzanian child welfare, but the welfare of all its citizens.
